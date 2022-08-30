@@ -1,0 +1,15 @@
+{
+  "name": "honey_gain_bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon ./index.js"
+  },
+  "author": "Mr_Unknown",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "discord.js": "^12.5.3"
+  }
+}
